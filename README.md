@@ -4,7 +4,7 @@
 - 👀 I'm intrested in web development and iOS development.
 - 🌱 I'm currently learning SwiftUI and React.
 - 📫 You can contact me at https://www.linkedin.com/in/VladGershun/
-- ⚡️ I decided to make CS my career after watching Ironman 1.
+- ⚡️ I decided to make CS my career after watching Ironman.
 
 <!--
 **VladGershun/VladGershun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,7 @@
 # 👋🏼 Hi there, my name is Vlad
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=VladGershun&color=brightgreen)
+</p>
 - 👨🏻‍💻 I'm a 3rd year computer science student @WSU.
 - 👀 I'm intrested in web development and iOS development.
 - 🌱 I'm currently learning SwiftUI and React.

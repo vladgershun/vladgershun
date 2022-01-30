@@ -1,5 +1,6 @@
 # 👋🏼 Hi there, my name is Vlad
-## 👨🏻‍💻 I am software engineer
+### 👨🏻‍💻 I am a 3rd year computer science student @WSU.
+### 👀 I am intrested in web development and iOS development.
 
 <!--
 **VladGershun/VladGershun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

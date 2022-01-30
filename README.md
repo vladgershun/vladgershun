@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋🏼 Hi there, my name is Vlad
+## 👨🏻‍💻 I am software engineer
 
 <!--
 **VladGershun/VladGershun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,9 @@
 # 👋🏼 Hi there, my name is Vlad
-- 👨🏻‍💻 I am a 3rd year computer science student @WSU.
-- 👀 I am intrested in web development and iOS development.
+- 👨🏻‍💻 I'm a 3rd year computer science student @WSU.
+- 👀 I'm intrested in web development and iOS development.
+- 🌱 I'm currently learning SwiftUI and React.
+- 📫 You can contact me at https://www.linkedin.com/in/VladGershun/
+- ⚡️ I decided to make CS my career after finishing Ironman 1.
 
 <!--
 **VladGershun/VladGershun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

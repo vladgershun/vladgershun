@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=VladGershun&color=brightgreen)
 - 👨🏻‍💻 I'm a 4th year computer science student @WSU.
 - 👀 I'm intrested in iOS and Backend development.
-- 🌱 I'm currently learning SwiftUI & UIKit.
+- 🌱 I'm currently learning SwiftUI.
 - 📫 You can contact me at https://www.linkedin.com/in/VladGershun/
 - ⚡️ I decided to make CS my career after watching Ironman.
 

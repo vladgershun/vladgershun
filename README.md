@@ -1,7 +1,7 @@
 # 👋🏼 Hi there, my name is Vlad
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=VladGershun&color=brightgreen" alt="VladGershun" /> </p> -->
 ![](https://komarev.com/ghpvc/?username=VladGershun&color=brightgreen)
-- 👨🏻‍💻 I'm a 4th year computer science student @WSU.
+- 👨🏻‍💻 I'm a WSU Graduate.
 - 👀 I'm intrested in iOS and Backend development.
 - 🌱 I'm currently learning SwiftUI.
 - 📫 You can contact me at https://www.linkedin.com/in/VladGershun/

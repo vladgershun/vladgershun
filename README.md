@@ -4,4 +4,3 @@
 - 👨🏻‍💻 I'm a WSU Graduate.
 - 👀 I'm intrested in iOS and Backend development.
 - 🌱 I'm currently learning SwiftUI.
-- 📫 You can contact me at https://www.linkedin.com/in/VladGershun/

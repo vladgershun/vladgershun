@@ -5,4 +5,4 @@
 - 👀 I'm intrested in iOS and Backend development.
 - 🌱 I'm currently learning SwiftUI.
 \
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vladgershun)](https://github.com/vladgershun/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vladgershun)]

@@ -2,4 +2,4 @@
 
 - 👨🏻‍💻 I'm a WSU Graduate.
 - 👀 I'm intrested in iOS and Backend development.
-- 🌱 I'm currently learning SwiftUI.
+- 🌱 I'm currently learning SwiftUI and GO.
